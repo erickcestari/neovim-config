@@ -8,7 +8,7 @@ return {
 			end,
 		},
 		{
-			"<leader>fh",
+			"<leader>h",
 			function()
 				require("mini.pick").builtin.help()
 			end,
